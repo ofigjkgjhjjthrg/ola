@@ -1,8 +1,8 @@
 body {
-    color: black;
-    background: red;
+    color: white;
+    background: black;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Chakrreda Petch", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -17,7 +17,8 @@ header {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
-    display: flex;
+    di(42, 122, 228);
+}splay: flex;
     justify-content: center;
 }
 
